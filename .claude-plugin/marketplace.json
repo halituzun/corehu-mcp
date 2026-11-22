@@ -1,0 +1,17 @@
+{
+  "name": "corehu",
+  "owner": {
+    "name": "CoreHu",
+    "url": "https://corehu.com"
+  },
+  "metadata": {
+    "description": "CoreHu GPU Cloud plugin for Claude Code: find, price and rent cloud GPUs through the CoreHu MCP server."
+  },
+  "plugins": [
+    {
+      "name": "corehu",
+      "source": "./",
+      "description": "Find, price and rent cloud GPUs on CoreHu from Claude Code."
+    }
+  ]
+}

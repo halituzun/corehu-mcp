@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "corehu": {
+      "type": "http",
+      "url": "https://corehu.com/api/mcp/account"
+    }
+  }
+}
