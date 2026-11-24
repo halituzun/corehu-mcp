@@ -16,6 +16,8 @@ The server itself is hosted by CoreHu; there is nothing to install or run locall
 Both use Streamable HTTP. Registry name: `com.corehu/gpu-cloud`.
 Full guide: **https://corehu.com/developers/mcp**
 
+[CoreHu on Glama](https://glama.ai/mcp/connectors/com.corehu/gpu-cloud)
+
 ## Install
 
 **Claude (claude.ai and desktop)**: Settings → Connectors → Add custom connector → paste the account URL → Connect.
